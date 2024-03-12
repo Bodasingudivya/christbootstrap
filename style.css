@@ -1,0 +1,130 @@
+/* -----------------------section 1----------------------------- */
+.hh nav a{
+    margin-left: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.hh button{
+    
+    padding: 10px 30px 10px 30px;
+    margin-right: 20px;
+}
+
+ /*-------------- section 2 --------------*/
+
+ .bnr{
+    background: linear-gradient(rgba(13, 13, 13, 0.5), rgba(10, 10, 10, 0.5)), url("images/image22.jpeg") ;
+
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+ }
+
+ 
+ .bnr h1{
+    color: white;
+    text-align: center;
+    padding-right: 600px;
+    padding-top: 250px;
+ }
+ 
+/*------------------------------------- section 3 ------------------------------*/
+
+.isf{
+    font-size: 30px;
+    color: blue;
+}
+.isi{
+    font-size: 30px;
+    color: rgb(234, 8, 192);
+}
+.ist{
+    font-size: 30px;
+    color:black;
+}
+.isy{
+    font-size: 30px;
+    color: red;
+    margin-right: 5px;
+
+}
+/*--------------------------------------------------- section 5---------------------------------------------- */
+
+.gallery{
+    background-color: rgb(210, 233, 233);
+    height: 385px;
+    width: 100%;
+    margin-top: 20px;
+}
+.gal{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.gal p{
+    text-align: center;
+    font-size: 20px;
+}
+
+/*------------------------------------------------- section 6--------------------------------------------- */
+.matter{
+    height: 290px;
+    text-align: center;
+    background-color: rgb(229, 174, 70);
+    margin-top: 50px;
+}
+.mat h1{
+    margin-top: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.mat p{
+    margin-top: 20px;
+    font-style: italic;
+    color: white;
+}
+.mat h5{
+    margin-top: 20px;
+    font-style: italic;
+    color: white;
+}
+.mat h6{
+    font-style: italic;
+    color: white;
+}
+
+ /*-------------------------------------------------- section 7 --------------------------------------------------*/
+
+ .footer{
+    height: 340px;
+    background-color:rgb(49, 49, 49);
+    text-align: start;
+    color: grey;
+    
+
+ }
+
+ .foot h3{
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+   
+ }
+ 
+ .foot li{
+    list-style: none;
+    margin-left: 60px;
+    
+ }
+ .foot input{
+    width: 210px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 120px;
+ }
+ .foot button{
+    margin-top: 10px;
+    padding: 5px 78px 5px 78px;
+    margin-left: 120px;
+ }
